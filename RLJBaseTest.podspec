@@ -42,5 +42,7 @@ TODO: Add long description of the pod here.
   s.dependency 'AFNetworking', :git => "https://github.com/AFNetworking/AFNetworking.git" , :tag => '4.0.1'
   # s.dependency 'A*', :git => "https://github.com/****", :tag => '4.0.1'
 
+  s.dependency 'AlivcCommon'
+
 
 end
