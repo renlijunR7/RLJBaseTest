@@ -40,7 +40,9 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
-  s.dependency 'AFNetworking', :git => "https://github.com/AFNetworking/AFNetworking.git" , :tag => '4.0.1'
+  s.dependency 'SSZipArchive', :git => 'https://github.com/levigroker/ssziparchive.git'
+
+ # s.dependency 'AFNetworking', :git => "https://github.com/AFNetworking/AFNetworking.git" 
   
 # s.dependency 'A*', :git => "https://github.com/****", :tag => '4.0.1'
 
