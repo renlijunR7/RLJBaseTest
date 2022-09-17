@@ -1,0 +1,22 @@
+{
+  "name": "RLJBaseTest",
+  "version": "0.1.0",
+  "summary": "A short description of RLJBaseTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18910142769/RLJBaseTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18910142769": "Your_email"
+  },
+  "source": {
+    "git": "https://github.com/18910142769/RLJBaseTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RLJBaseTest/Classes/**/*"
+}
