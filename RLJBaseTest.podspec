@@ -38,11 +38,10 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 
   # s.dependency 'SSZipArchive', :git => 'https://github.com/levigroker/ssziparchive.git'
 
-   s.dependency 'AFNetworking' '~>3.2.0'
+   s.dependency 'AFNetworking'
   
 # s.dependency 'A*', :git => "https://github.com/****", :tag => '4.0.1'
 
